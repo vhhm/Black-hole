@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: black;
+  color: white;
+  overflow-x: hidden;
+}
+
+.blackhole {
+  opacity: 0;
+  transform: scale(0);
+}
